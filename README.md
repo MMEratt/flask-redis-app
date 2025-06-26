@@ -13,3 +13,11 @@ Bu proje, Flask kullanılarak hazırlais basit bir web uygulamasını ve Redis v
 
 ## Klasör Yapısı
 
+flask-redis-app/
+--app/
+----app.py
+----requirements.txt
+--Dockerfile
+--docker-compose.yml
+--.gitignore
+--README.md
