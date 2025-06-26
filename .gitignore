@@ -1,0 +1,16 @@
+# Python bytecode ve cache
+__pycache__/
+*.pyc
+
+# VSCode ayarları
+.vscode/
+
+# Sanal ortam
+venv/
+.env
+
+# Log dosyaları
+*.log
+
+# MacOS dosyaları
+.DS_Store
